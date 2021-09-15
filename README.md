@@ -1,6 +1,8 @@
 # TamilASR
 Automatic Speech Recognition on Tamil speech data using state of the art ASR toolkits.
 
+Project Supervisor: Prof. Samudravijaya K
+
 ## Project Tracker
 
 | Week | Date | Task | Summary | Remarks/ Problems Faced | Completion status |
